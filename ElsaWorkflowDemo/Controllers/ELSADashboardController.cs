@@ -2,7 +2,7 @@
 
 namespace ElsaWorkflowDemo.Controllers
 {
-    public class ELSA_DashboardController : Controller
+    public class ELSADashboardController : Controller
     {
         public IActionResult Index()
         {
